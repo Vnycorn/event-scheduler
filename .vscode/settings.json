@@ -1,0 +1,12 @@
+{
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    ".env.example": ".env*",
+    "docker-compose.yml": "Dockerfile, .dockerignore",
+    "tsconfig.json": "tsconfig.*.json, next-env.d.ts",
+    "eslint.config.mjs": ".lintstagedrc.json, commitlint.config.ts",
+    "tailwind.config.ts": "postcss.config.mjs, components.json",
+    "package.json": "package-lock.json, pnpm*, .yarnrc*, yarn*",
+    "pyproject.toml": "poetry.lock"
+  }
+}
