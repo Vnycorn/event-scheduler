@@ -7,7 +7,7 @@ A full-stack event scheduling application built with **Next.js** for the fronten
 - **Event Management**: Create, read, update, and delete events.
 - **Responsive UI**: Clean and modern interface optimized for all devices.
 - **API Integration**: Robust API endpoints powered by FastAPI.
-- **Database Support**: Uses a relational database (PostgreSQL) and ORM (Alembic) for storing event data.
+- **Database Support**: Uses PostgreSQL, SQLAlchemy, and Alembic for managing event data.
 - **Error Handling**: Comprehensive error handling on both frontend and backend.
 
 ## Tech Stack
