@@ -72,7 +72,7 @@ A full-stack event scheduling application built with **Next.js** for the fronten
    pnpm run start
    ```
 
-3. **Set Up Backend - TBD by MTJUN**
+3. **Set Up Backend**
 
    ```bash
    cd api
@@ -89,7 +89,7 @@ A full-stack event scheduling application built with **Next.js** for the fronten
 4. **Access the Application**
 
    - Frontend: [http://localhost:3000](http://localhost:3000)
-   - Backend API: [http://localhost:8000/v1/api](http://localhost:8000/v1/api)
+   - Backend API: [http://localhost:8000/api](http://localhost:8000/api)
 
 ## API Endpoints
 
